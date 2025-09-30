@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+header {    
+    background-color: #035035;
+    color: white;    
+    padding: 20px;    
+    text-align: center;    
+    border: 5px solid black;
+}
+.formulario {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 50px;
+    width: 200px;
+    margin: 20px;
+ 
+}
+.botao {
+    background-color: #035035;
+    display: flex;
+    justify-content: center;
+    width: 50px;
+    margin: 20px;
+    
+}
